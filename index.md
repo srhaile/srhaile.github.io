@@ -18,5 +18,5 @@ For more details, please see my [CV](cv.html).
 
 ## Education
 
-- **PhD in Biostatistics**, 2008
-- **BA in Mathematics**, 2003
+- **PhD in Biostatistics**, 2008, [Graduate School of Public Health](https://www.publichealth.pitt.edu/), University of Pittsburgh
+- **BA in Mathematics**, 2003, The [College of Wooster](https://www.wooster.edu/)
