@@ -1,3 +1,5 @@
+# About me
+
 I am a biostatistician in the Department of Epidemiology at the University of Zurich's [Epidemiology, Biostatistics and Prevention Institute](http://www.ebpi.uzh.ch) (EBPI). I have a PhD in Biostatistics (2008) and have been working as a statistical consultant on clinical and epidemiological studies for over 10 years. Most recently I have been working with epidemiologist on projects related to network meta-analysis, development of clinical prediction models, mixed models, and multiple imputation. Data analysis has covered a wide range of areas, including
 
 - survival analysis,
