@@ -50,3 +50,22 @@ Department of Epidemiology, [Epidemiology, Biostatistics and Prevention Institut
           
 ####  *Graduate Student Researcher / Biostatistics Trainee*: 8/2003 - 8/2008
 [National Surgical Adjuvant Breast and Bowel Project](http://www.nsabp.pitt.edu/)
+
+## Consulting Experience
+
+* 2015 - present: Department of Epidemiology, EBPI, University of Zurich
+* 2015 - present: Department of Pulmonology, University Hospital Zurich
+* 2008 - 2014: Clinical Trials Unit at the Cantonal Hospital St. Gallen
+* 2008 - 2011: University of Zurich, University Hospital Zurich, and Clinical Trials Center at the University Hospital of Zurich
+
+## Teaching Experience
+
+* 2013 - 2014: Introduction to Statistics (30 minutes, part of Good Clinical Practice course, organized by the
+Clinical Trials Unit, Cantonal Hospital St. Gallen, in _German_) (4-5 times per year)
+* 1/ 2013: Survival Analysis / Sample size & Power Calculations (6 hours, part of Statistics course for
+Master of Science in Nursing, at the University of Applied Sciences St. Gallen, in _German_)
+* 11/2012: Introduction to Biostatistics in Oncology (3.5 hours, part of Cancer Biology PhD program Module
+on Clinical Cancer Research, at the University of Zurich) (2 times)
+* 2009 - 2011: Introduction to Statistics (1 hour, part of Good Clinical Practice course Module III, organized by
+the Clinical Trials Center at the University Hospital of Zurich) (15 times)
+
