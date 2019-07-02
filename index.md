@@ -32,3 +32,21 @@ For more details, please see my [CV](cv.html).
   - [Multiple Imputation in Stata](https://www.ebpi.uzh.ch/dam/jcr:cabe835f-d139-4ab2-92f6-5c40e7b2e86a/Mi_intro20160303.pdf), 
   - [Interpretation of Interactions](https://www.ebpi.uzh.ch/dam/jcr:9c0932ec-f621-4b9f-af4d-9cb632697253/InteractionsStataR20170622.pdf), 
   - Sample Size Calculations in R
+
+## Work Experience
+
+#### *Biostatistician* (50%): 4/2015 - present
+Department of Epidemiology, [Epidemiology, Biostatistics and Prevention Institute (EBPI)](http://www.ebpi.uzh.ch), University of Zurich, Switzerland
+  
+#### *Biostatistician* (50%): 12/2008 - 2/2015
+  - [Clinical Trials Unit](http://www.ctu.kssg.ch)
+  - Cantonal Hospital St. Gallen (KSSG), Switzerland
+  - _via contract with [EBPI](http://www.ebpi.uzh.ch) (formerly IPSMZ) until 11/2013, then directly at KSSG_
+  
+####  *Biostatistician* (50%): 12/2008 - 6/2011
+  - Department of Biostatistics, [EBPI](http://www.ebpi.uzh.ch) (formerly ISPMZ), University of Zurich, Switzerland
+  - _providing statistical support for [Clinical Trials Center](http://www.ctc-zkf.usz.ch) at the 
+          University Hospital Zurich_
+          
+####  *Graduate Student Researcher / Biostatistics Trainee*: 8/2003 - 8/2008
+[National Surgical Adjuvant Breast and Bowel Project](http://www.nsabp.pitt.edu/)
