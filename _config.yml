@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
-name: Sarah R Haile
+
+author:
+  name:  Sarah R Haile
+  email: sarah.haile@uzh.ch
