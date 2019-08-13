@@ -3,3 +3,7 @@ theme: jekyll-theme-minimal
 author:
   name:  Sarah R Haile
   email: sarah.haile@uzh.ch
+   about: |
+    Hi, I'm Sarah...
+
+    This is another paragraph.
