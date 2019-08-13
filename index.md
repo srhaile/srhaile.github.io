@@ -52,7 +52,7 @@ Department of Epidemiology, [Epidemiology, Biostatistics and Prevention Institut
 ## Consulting Experience
 
 * 2015 - present: Department of Epidemiology, EBPI, University of Zurich
-* 2015 - present: Department of Pulmonology, University Hospital Zurich
+* 2015 - 2018: Department of Pulmonology, University Hospital Zurich
 * 2008 - 2014: Clinical Trials Unit at the Cantonal Hospital St. Gallen
 * 2008 - 2011: University of Zurich, University Hospital Zurich, and Clinical Trials Center at the University Hospital of Zurich
 
