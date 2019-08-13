@@ -1,10 +1,4 @@
 theme: jekyll-theme-minimal
 
-author:
-  name:  Sarah R Haile
-  email: sarah.haile@uzh.ch
-   about: |
-    Hi, I'm Sarah...  
-   social:
-    twitter: srhaile
-    github:  srhaile
+title: [The title of your site]
+description: [A short description of your site's purpose]
